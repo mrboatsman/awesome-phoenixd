@@ -10,4 +10,4 @@ A curated list of ACINQ Phoenix Server services and tools, https://github.com/AC
 * [lnaddress_phoenixd](https://github.com/mrboatsman/lnaddress_phoenixd) - A Rust application service for serve Lightning Address for phoenixd
 
 ## Lnbits
-[LNBits-phoenixd](https://github.com/bitkarrot/lnbits-phoenixd/) - Docker compose for running Lnbits and Phenixd as backend
+* [LNBits-phoenixd](https://github.com/bitkarrot/lnbits-phoenixd/) - Docker compose for running Lnbits and Phenixd as backend
