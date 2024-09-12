@@ -4,6 +4,7 @@ A curated list of ACINQ Phoenix Server services and tools, https://github.com/AC
 
 ## Wallet UIs
 * [HodladiWallet](https://github.com/hodladi/hodladiwallet) - A .NET 8 Blazor Web application providing mobile friendly wallet
+* [Resurrection Wallet](https://github.com/ktecho/resurrection-wallet) - A desktop frontend for phoenixd written in Svelte and Typescript
 
 ## LNURL
 * [phoenixd-lnurl](https://github.com/AngusP/phoenixd-lnurl) - A Python application service for Bitcoin Lightning LNURL and Lighting Address for phoenixd 
