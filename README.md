@@ -3,7 +3,7 @@ Awesome Phoenixd
 A curated list of ACINQ Phoenix Server services and tools, https://github.com/ACINQ/phoenixd/
 
 ## Wallet UIs
-* [HodladiWallet](https://github.com/hodladi/hodladiwallet) - A .NET 8 Blazor Web application providing mobile friendly wallet
+* [pWallet](https://github.com/hodladi/pwallet) - A Phoenix Server UI in .NET 8 Blazor Web application providing mobile friendly wallet
 * [Resurrection Wallet](https://github.com/ktecho/resurrection-wallet) - A desktop frontend for phoenixd written in Svelte and Typescript
 
 ## LNURL
